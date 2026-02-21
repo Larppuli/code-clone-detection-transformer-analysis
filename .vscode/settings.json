@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./clone_detector/src/CodeBERT/GraphCodeBERT/codesearch"
+    ]
+}
