@@ -15,7 +15,7 @@ This directory contains the experimental framework to evaluate and compare embed
 
 ## Prerequisites
 
-To successfully use **GraphCodeBERT**, you must clone the official CodeBERT repository into this directory:
+To successfully use **GraphCodeBERT**, you must clone the official CodeBERT repository into `/src` directory:
 ```bash
 git clone https://github.com/microsoft/CodeBERT.git
 ```
