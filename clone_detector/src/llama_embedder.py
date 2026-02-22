@@ -35,7 +35,7 @@ while True:
 
 # Dataset configuration
 if choice == "0":
-    DATASET_NAME = "google/code_x_glue_cc_clone_detection_big_clodtyne_bench"
+    DATASET_NAME = "google/code_x_glue_cc_clone_detection_big_clone_bench"
     label_name, code_var_names, test_split, mode, language = "label", ["func1", "func2"], "test", "hf", "java"
 elif choice == "1":
     DATASET_NAME = "PoolC/1-fold-clone-detection-600k-5fold"
